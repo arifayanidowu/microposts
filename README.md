@@ -32,9 +32,7 @@ $ npm run build
 ## More Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Arifayan Idowu
 
 ### License
 
